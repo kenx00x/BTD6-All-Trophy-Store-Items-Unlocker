@@ -3,8 +3,6 @@ using Assets.Scripts.Unity.UI_New.Main;
 using Harmony;
 using Il2CppSystem.Collections.Generic;
 using MelonLoader;
-using System;
-using System.Linq;
 [assembly: MelonInfo(typeof(BTD6_All_Trophy_Store_Items_Unlocker.Class1), "All Trophy Store Items Unlocker", "1.0.1", "kenx00x")]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
 namespace BTD6_All_Trophy_Store_Items_Unlocker
